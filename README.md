@@ -82,6 +82,10 @@ Need something added? Please [open an issue](https://github.com/brianhempel/mong
     git push
     # then make a pull request
 
+## This fork
+
+All I've done here is merge the mongo2_fix branch into master so I can use it in my own projects.
+
 ## Inspiration
 
 A first implimentation was written over a year ago based on Chris Shiflett's [Auto Increment with MongoDB](http://shiflett.org/blog/2010/jul/auto-increment-with-mongodb) blog post.
